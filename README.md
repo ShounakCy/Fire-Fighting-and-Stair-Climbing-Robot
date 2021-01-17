@@ -45,4 +45,4 @@ This project was also amongst the top two projects in the College to be represen
 NCRDE-2017.
 
 
- ![Image description](link-to-image)
+ ![Image description](https://github.com/ShounakCy/Fire-Fighting-and-Stair-Climbing-Robot/blob/main/Picture3.png)
