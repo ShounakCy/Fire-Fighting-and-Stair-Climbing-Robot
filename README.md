@@ -1,6 +1,6 @@
 # Fire-Fighting-and-Stair-Climbing-Robot
 
-ABSTRACT OF BACHELOR THESIS
+                               ABSTRACT OF BACHELOR THESIS
 
 In today&#39;s world, robots are increasingly being integrated into working tasks to replace
 humans. They are currently used in many fields of applications including office, military
@@ -44,3 +44,5 @@ methodology. The results show that the proposed robot model is successfully impl
 This project was also amongst the top two projects in the College to be represented at
 NCRDE-2017.
 
+
+ ![Image description](link-to-image)
