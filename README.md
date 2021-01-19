@@ -46,3 +46,4 @@ NCRDE-2017.
 
 
  ![Image description](https://github.com/ShounakCy/Fire-Fighting-and-Stair-Climbing-Robot/blob/main/Picture3.png)
+ ![Image description](https://github.com/ShounakCy/Fire-Fighting-and-Stair-Climbing-Robot/blob/main/B.Tech. Abstract.pdf)
